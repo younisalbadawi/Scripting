@@ -27,5 +27,5 @@ Contributions are welcome! If you have a script you'd like to add, please feel f
 
 ## Acknowledgments
 
-    Thanks to all contributors and users. Your feedback and usage help drive the direction of development!
+  Thanks to all contributors and users. Your feedback and usage help drive the direction of development!
     
